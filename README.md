@@ -27,7 +27,7 @@ diagram showing of the counts of items in each intersection of each of the sets.
 After you set up the add on, select a consecutive two-column range and choose 'Extensions' >
 'Title of your add-on' > 'Insert Venn diagram'. 
 
-![screencast](https://github.com/user-attachments/assets/ce0f37f1-c05d-4ddb-8eff-908504c45c43)
+[![screencast](https://github.com/user-attachments/assets/cff5070e-2007-4aa4-9889-4555de1e6284)](https://github.com/user-attachments/assets/ce0f37f1-c05d-4ddb-8eff-908504c45c43)
 
 
 ## Set up
